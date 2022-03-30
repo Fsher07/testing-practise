@@ -1,0 +1,22 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fsher07/testing-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fsher07/testing-practise/issues"
+  },
+  "homepage": "https://github.com/Fsher07/testing-practise#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
